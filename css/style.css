@@ -1,0 +1,15 @@
+  .carousel-inner{
+  	height: 600px;
+  	z-index: 1;
+  }
+
+  .carousel-caption{
+  	height: 600px;
+  }
+   
+  .nav{
+  	top: 500px;
+  	left: 50px;
+  	position:absolute;
+  	z-index:2;
+  }
